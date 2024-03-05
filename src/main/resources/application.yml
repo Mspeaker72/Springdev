@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+#spring:
+#  main: to have my application have no server servlet is default
+#    web-application-type: none
+
+spring:
+  main:
+    web-application-type: servlet
